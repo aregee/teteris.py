@@ -1,0 +1,12 @@
+click==6.7
+Flask==0.12.2
+gevent==1.2.2
+gipc==0.6.0
+greenlet==0.4.12
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+redis==2.10.5
+thoonk==1.0.1.0
+Werkzeug==0.12.2
+ws4py==0.4.2

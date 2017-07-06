@@ -1,0 +1,10 @@
+.DS_Store
+.project
+.idea
+.gitkeep
+npm-debug.log
+nbproject
+.settings
+node_modules
+*pyc
+*~
